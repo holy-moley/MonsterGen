@@ -1,5 +1,4 @@
-This is a Project for CS 260 using Android Studio Java Application Software. With the demostration of the Factory Pattern incorporting the demostration of the factory pattern
-desgin along with aspects of the composite pattern aswell.
+This is a Project for CS 260 using Android Studio Java Application Software. The main functionality of the program is done through the Builder pattern, with the added help of a Director class.
 
 Develoment Crew
   - Anna N.
