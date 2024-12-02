@@ -1,5 +1,5 @@
 This is a Project for CS 260 using Android Studio Java Application Software. With the demostration of the Factory Pattern incorporting the demostration of the factory pattern
-desgin. 
+desgin along with aspects of the composite pattern aswell.
 
 Develoment Crew
   - Anna N.
